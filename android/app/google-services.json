@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524286329619",
+    "project_id": "yachat-77ac7",
+    "storage_bucket": "yachat-77ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524286329619:android:886c89f7b3110167c890e6",
+        "android_client_info": {
+          "package_name": "com.example.yachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524286329619-dq5u6ai457ehutj7aur1bpsnomfep224.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XM_5iJBlebS1aaxapMeWJ4eITxgDFEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524286329619-dq5u6ai457ehutj7aur1bpsnomfep224.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
